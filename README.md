@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ... Bootstrap!
 - 💞️ I’m looking to collaborate on ... hackathons!
 - 📫 How to reach me ... 
-    [Email](mailto:richardkentng@gmail.com)
-    [Linkedin](https://www.linkedin.com/in/richard-kent-ng/)
+    -[Email](mailto:richardkentng@gmail.com)
+    -[Linkedin](https://www.linkedin.com/in/richard-kent-ng/)
 
 <!---
 richardkentng/richardkentng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
