@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @richardkentng
-- 👀 I’m interested in ... full stack web development!  Open to job opportunities!
+- 👀 I’m interested in ... full stack web development & job opportunities!
 - 🌱 I’m currently learning ... Bootstrap!
 - 💞️ I’m looking to collaborate on ... hackathons!
 - 📫 How to reach me ... 
