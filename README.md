@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @richardkentng
 - 👀 I’m interested in ... full stack web development & job opportunities!
-- 🌱 I’m currently learning ... Bootstrap!
+- 🌱 I’m currently learning ... Bootstrap!  And I'm on the journey with 100devs!
 - 💞️ I’m looking to collaborate on ... hackathons!
 - 📫 How to reach me ... 
     -[Email](mailto:richardkentng@gmail.com)
