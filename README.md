@@ -1,10 +1,14 @@
 - 👋 Hi, I’m @richardkentng
-- 👀 I’m interested in ... full stack web development & job opportunities!
-- 🌱 I’m currently learning ... Bootstrap & SQL.
+- 👀 I’m interested in ............... Full-Stack Web Development & Apprentice/Job Opportunities!
+- 🌱 I’m currently learning ....,,,,,, Responsive Web Development!
 - 💞️ I’m looking to collaborate on ... hackathons!
 - 📫 How to reach me ... 
     -[Email](mailto:richardkentng@gmail.com)
     -[Linkedin](https://www.linkedin.com/in/richard-kent-ng/)
+    
+# Featured Project
+![Wordle Demo](https://i.imgur.com/lZBNPWf.gif)
+## [Go to Wordle-Clone Repo](https://github.com/richardkentng/wordle-clone)
 
 <!---
 richardkentng/richardkentng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
