@@ -7,7 +7,7 @@
     -[Linkedin](https://www.linkedin.com/in/richard-kent-ng/)
     
 # Featured Project:
-## [Go to Wordle-Clone Repo](https://github.com/richardkentng/wordle-clone)
+## [Wordle Clone](https://github.com/richardkentng/wordle-clone)
 ![Wordle Demo](https://i.imgur.com/lZBNPWf.gif)
 
 
