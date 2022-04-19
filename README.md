@@ -6,9 +6,10 @@
     -[Email](mailto:richardkentng@gmail.com)
     -[Linkedin](https://www.linkedin.com/in/richard-kent-ng/)
     
-# Featured Project
-![Wordle Demo](https://i.imgur.com/lZBNPWf.gif)
+# Featured Project:
 ## [Go to Wordle-Clone Repo](https://github.com/richardkentng/wordle-clone)
+![Wordle Demo](https://i.imgur.com/lZBNPWf.gif)
+
 
 <!---
 richardkentng/richardkentng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
