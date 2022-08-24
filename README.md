@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @richardkentng
-- 👀 I’m interested in ............... Full-Stack Web Development & Apprentice/Job Opportunities!
+- 👀 I’m interested in ............... Web Development & Apprentice/Job Opportunities!
 - 🌱 I’m currently learning ....,,,,,, Responsive Web Development!
 - 💞️ I’m looking to collaborate on ... hackathons!
 - 📫 How to reach me ... 
