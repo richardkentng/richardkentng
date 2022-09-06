@@ -6,7 +6,7 @@ I'm looking 👀 to collaborate on web development projects and learn together! 
 
 Thanks for stopping by, and definitely reach out! 😁
 
-[LinkedIn](https://www.linkedin.com/in/richard-kent-ng/)
+[Find me on LinkedIn](https://www.linkedin.com/in/richard-kent-ng/)
 
 
 # Featured Project
