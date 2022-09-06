@@ -5,7 +5,7 @@ I'm an upcoming Software QA Analyst! 🪲🛠
 I'm looking 👀 to collaborate on web development projects and learn together! 🤼‍♀️
 
 Thanks for stopping by, and definitely reach out! 😁
-![LinkedIn](https://www.linkedin.com/feed/)
+[LinkedIn](https://www.linkedin.com/feed/)
 
 # Featured Project
 # [click here to enter repo](https://github.com/richardkentng/wordle-clone)
