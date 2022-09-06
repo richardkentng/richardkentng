@@ -1,11 +1,13 @@
-I'm an upcoming Software QA Analyst!
+Hi, I'm Richard! 🖐
+
+I'm an upcoming Software QA Analyst! 🪲🛠
 
 I'm looking 👀 to collaborate on web development projects and learn together! 🤼‍♀️
 
-Thanks for stopping by, and definitely reach out!
+Thanks for stopping by, and definitely reach out! 😁
 
-# Featured Project:
-# [Wordle Clone](https://github.com/richardkentng/wordle-clone)
+# Featured Project
+# [click here to enter repo](https://github.com/richardkentng/wordle-clone)
 ![Wordle Demo](https://i.imgur.com/lZBNPWf.gif)
 
 
