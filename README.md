@@ -1,5 +1,7 @@
 I'm an upcoming Software QA Analyst!
+
 I'm looking 👀 to collaborate on web development projects and learn together! 🤼‍♀️
+
 Thanks for stopping by, and definitely reach out!
 
 # Featured Project:
