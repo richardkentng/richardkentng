@@ -1,6 +1,6 @@
 Hi, I'm Richard! 🖐
 
-I'm an upcoming Software QA Analyst! 🪲🛠
+I work as a Software QA Analyst! 🪲🛠
 
 I'm looking 👀 to collaborate on web development projects and learn together! 🤼‍♀️
 
