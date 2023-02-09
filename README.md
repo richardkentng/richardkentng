@@ -1,12 +1,8 @@
-Hi, I'm Richard! 🖐
+Hey it's Richard! 🖐
 
-I work as a Software QA Analyst! 🪲🛠
+Check out some of my projects and let me know what you think!
 
-I'm looking 👀 to collaborate on web development projects and learn together! 🤼‍♀️
-
-Thanks for stopping by, and definitely reach out! 😁
-
-[Find me on LinkedIn](https://www.linkedin.com/in/richard-kent-ng/)
+[Let's connect on Linkedin!](https://www.linkedin.com/in/richard-kent-ng/)
 
 
 # Featured Project
